@@ -1,0 +1,2 @@
+# trading
+learn to trade
